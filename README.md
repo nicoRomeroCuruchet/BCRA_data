@@ -10,102 +10,102 @@ data_bcra.csv: contiene los datos generados por el codigo BCRA.ipynb
 Campos:
 
 
-eventos relevantes (presidencia, ministros de economía, presidentes del BCRA, cepo al dólar)
+- eventos relevantes (presidencia, ministros de economía, presidentes del BCRA, cepo al dólar)
 
-base monetaria
+- base monetaria
 
-base monetaria dividida USD
+- base monetaria dividida USD
 
-base monetaria dividida USD Oficial
+- base monetaria dividida USD Oficial
 
-reservas internacionales
+- reservas internacionales
 
-base monetaria dividida reservas internacionales
+- base monetaria dividida reservas internacionales
 
-cotización del USD
+- cotización del USD
 
-cotización del USD Oficial
+- cotización del USD Oficial
 
-cotización del USD Oficial (Minorista)
+- cotización del USD Oficial (Minorista)
 
-porcentaje de variación entre la cotización del USD y el USD oficial
+- porcentaje de variación entre la cotización del USD y el USD oficial
 
-circulación monetaria
+- circulación monetaria
 
-billetes y monedas
+- billetes y monedas
 
-efectivo en entidades financieras
+- efectivo en entidades financieras
 
-depositos de entidades financieras en cuenta del BCRA
+- depositos de entidades financieras en cuenta del BCRA
 
-depósitos
+- depósitos
 
-cuentas corrientes
+- cuentas corrientes
 
-cajas de ahorro
+- cajas de ahorro
 
-plazos fijos
+- plazos fijos
 
-tasa de interés por depósitos
+- tasa de interés por depósitos
 
-prestamos
+- prestamos
 
-tasa préstamos personales
+- tasa préstamos personales
 
-tasa adelantos cuenta corriente
+- tasa adelantos cuenta corriente
 
-porcentaje de prestamos en relación a depósitos
+- porcentaje de prestamos en relación a depósitos
 
-LEBACs
+- LEBACs
 
-LELIQs
+- LELIQs
 
-LEBACs en USD
+- LEBACs en USD
 
-LELIQs en USD
+- LELIQs en USD
 
-LELIQs en USD Oficial
+- LELIQs en USD Oficial
 
-Tasa de LELIQs
+- Tasa de LELIQs
 
-M2 privado variación mensual
+- M2 privado variación mensual
 
-CER
+- CER
 
-UVA
+- UVA
 
-UVI
+- UVI
 
-tasa BADLAR
+- tasa BADLAR
 
-tasa BAIBAR
+- tasa BAIBAR
 
-tasa TM20
+- tasa TM20
 
-tasa pase activas a 1 día
+- tasa pase activas a 1 día
 
-tasa pase pasivas a 1 día
+- tasa pase pasivas a 1 día
 
-inflación mensual oficial
+- inflación mensual oficial
 
-inflación inteanual oficial
+- inflación inteanual oficial
 
-inflación esperada oficial
+- inflación esperada oficial
 
-diferencia entre inflación interanual oficial y esperada
+- diferencia entre inflación interanual oficial y esperada
 
-variación base monetaria interanual
+- variación base monetaria interanual
 
-variación USD interanual
+- variación USD interanual
 
-variación USD (Oficial) interanual
+- variación USD (Oficial) interanual
 
-variación merval interanual
+- variación merval interanual
 
-variación anual del dólar oficial (porcentaje de variación de la cotización del dólar oficial un año despues a la cotización de la fecha indicada)
+- variación anual del dólar oficial (porcentaje de variación de la cotización del dólar oficial un año despues a la cotización de la fecha indicada)
 
-variación anual del MERVAL (porcentaje de variación del MERVAL un año despues al la cotización de la fecha indicada)
+- variación anual del MERVAL (porcentaje de variación del MERVAL un año despues al la cotización de la fecha indicada)
 
-MERVAL
+- MERVAL
 
-MERVAL dividido cotización del USD
+- MERVAL dividido cotización del USD
