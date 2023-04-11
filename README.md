@@ -101,3 +101,11 @@ variación USD interanual
 variación USD (Oficial) interanual
 
 variación merval interanual
+
+variación anual del dólar oficial (porcentaje de variación de la cotización del dólar oficial un año despues a la cotización de la fecha indicada)
+
+variación anual del MERVAL (porcentaje de variación del MERVAL un año despues al la cotización de la fecha indicada)
+
+MERVAL
+
+MERVAL dividido cotización del USD
