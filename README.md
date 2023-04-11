@@ -1,5 +1,8 @@
 # BCRA_data
-Información relevante del banco central argentino
+
+Información relevante del banco central argentino. La informacion se esta obteniendo desde el sitio https://estadisticasbcra.com/
+
+Para que sea accesible desde la clase de python se debe generar un TOKEN en esta web: https://estadisticasbcra.com/api/registracion y modificar la variable API_TOKEN de la clase en el notebook.
 
 
 dolares.csv: contiene los tipos de cambio ccl y mep historicos (diarios)
