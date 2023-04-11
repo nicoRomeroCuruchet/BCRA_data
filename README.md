@@ -109,3 +109,5 @@ Campos:
 - MERVAL
 
 - MERVAL dividido cotización del USD
+
+- DFF tasa de referencia de la reserva federal de EEUU
