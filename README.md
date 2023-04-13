@@ -1,25 +1,20 @@
 # Datos BCRA
 
 Información relevante publicada por el banco central argentino. 
-La informacion se esta obteniendo desde el sitio https://estadisticasbcra.com/
 
+- La informacion del BCRA se esta obteniendo desde el sitio https://estadisticasbcra.com/
+- La informacion de la reserva federal se esta obteniendo desde https://fred.stlouisfed.org/
 
 # Setup
 
-1. Generar los tokes correspondientes en: https://estadisticasbcra.com/api/registracion
-2. Generar el 
+1. Generar el token correspondiente en: https://estadisticasbcra.com/api/registracion
+2. Generar el para poder usar el paquete de python https://github.com/mortada/fredapi
+3. pip install -r requirements.txt
+4. Con ambos tokens modificar, segun corresponda el archivo example.py. Lineas 8 y 41.
+5. Ejecutar el comando **python example.py** va a generar el archivo ***data_bcra.csv** que contiene los siguiente campos.
 
 
-
-
-Para que sea accesible desde la clase de python se debe generar un TOKEN en esta web: https://estadisticasbcra.com/api/registracion y modificar la variable API_TOKEN de la clase en el notebook.
-
-example.py genera 
-data_bcra.csv: contiene los datos generados por el codigo BCRA.ipynb
-
-
-Campos:
-
+# Descripcion Campos:
 
 - **milestones:** Eventos relevantes (presidencia, ministros de economía, presidentes del BCRA, cepo al dólar)
 
