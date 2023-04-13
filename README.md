@@ -35,7 +35,7 @@ Campos:
 
 - **circulacion_monetaria:** Circulación monetaria. Es la cantidad total de dinero que se encuentra en manos del público y que está disponible para ser utilizado en transacciones comerciales. Este dinero incluye billetes y monedas en circulación, así como depósitos a la vista en cuentas bancarias. Valores expresada en millones de pesos.
 
-- **billetes_y_monedas:** Billetes y Monedas
+- **billetes_y_monedas:** Canrtidad de billetes y monedas.
 
 - **efectivo_en_ent_fin:** Efectivo en entidades financieras. Valores expresada en millones de pesos.
 
@@ -53,64 +53,62 @@ Campos:
 
 - **prestamos:** Total de prestamos. Valores expresada en millones de pesos.
 
-- ** tasa_prestamos_personales:**tasa préstamos personales
+- **tasa_prestamos_personales:** Tasa préstamos personales
 
-- tasa adelantos cuenta corriente
+- **tasa_adelantos_cuenta_corriente:** Tasa adelantos cuenta corriente
 
-- porcentaje de prestamos en relación a depósitos
+- **porc_prestamos_vs_depositos:** Porcentaje de prestamos en relación a depósitos
 
-- LEBACs
+- **lebac:** Dinero en LEBACs. Valores expresada en millones de pesos.
 
-- LELIQs
+- **leliq:** Dinero en LELIQs. Valores expresada en millones de pesos.
 
-- LEBACs en USD
+- **lebac_usd:** Dinero en LEBACs en USD. Valores expresada en millones de dolares.
 
-- LELIQs en USD
+- **leliq_usd:** Dinero en LELIQs en USD. Valores expresada en millones de dolares.
 
-- LELIQs en USD Oficial
+- **leliq_usd_of:** Dinero LELIQs en USD Oficial. Valores expresada en millones de dolares.
 
-- Tasa de LELIQs
+- **tasa_leliq:** Tasa de LELIQs.
 
-- M2 privado variación mensual
+- **m2_privado_variacion_mensual:** M2 privado variación mensual. M2 es una medida de la oferta monetaria que incluye el dinero en circulación (billetes y monedas) y los depósitos a plazo, depósitos en cuentas de ahorro, y otros tipos de depósitos que están disponibles para su retiro en un corto plazo de tiempo.
 
-- CER
+- **cer:** Tasa CER.
 
-- UVA
+- **uva:** Valor de UVA.
 
-- UVI
+- **uvi:** Valor de UVI.
 
-- tasa BADLAR
+- **tasa_badlar:** Tasa BADLAR
 
-- tasa BAIBAR
+- **tasa_baibar:** Tasa BAIBAR
 
-- tasa TM20
+- **tasa_tm20:** La tasa TM20 es una tasa de interés de referencia utilizada en el mercado financiero de México. Se calcula a partir de la tasa de los Bonos de Desarrollo del Gobierno Federal a 20 años y se utiliza como una medida de referencia para préstamos hipotecarios y otros tipos de crédito a largo plazo en México. La tasa TM20 es una de las tasas de interés más utilizadas en el mercado financiero mexicano y es publicada diariamente por el Banco de México.
 
-- tasa pase activas a 1 día
+- **tasa_pase_activas_1_dia:** El pase activo es una operación de mercado que implica que una entidad financiera (generalmente un banco) presta fondos a otra entidad financiera por un período de tiempo determinado, y como garantía, recibe valores negociables (como letras del Tesoro o bonos corporativos) que la entidad prestataria mantiene en su cartera. Al vencimiento del plazo acordado, la entidad prestataria debe devolver el dinero prestado y recuperar los valores entregados en garantía. Los pases activos son una forma común de financiamiento a corto plazo entre bancos y otras instituciones financieras en Argentina.
 
-- tasa pase pasivas a 1 día
+- **tasa_pase_pasivas_1_dia:** El pase pasivo es una operación de corto plazo en la que una entidad financiera toma prestado dinero de otra entidad financiera. En este caso, la entidad que toma prestado el dinero es la que realiza la operación de pase pasivo, y la entidad que presta el dinero es la que realiza el pase activo. La entidad que toma prestado el dinero paga un interés por el préstamo, y el plazo de la operación suele ser de uno a siete días hábiles. Los pases pasivos son una forma común de financiamiento de corto plazo para las entidades financieras, ya que les permite obtener fondos rápidamente y a una tasa de interés determinada.
 
-- inflación mensual oficial
+- **inflacion_mensual_oficial:** Inflación mensual oficial
 
-- inflación inteanual oficial
+- **inflacion_interanual_oficial:** Inflación inteanual oficial. La inflación interanual se refiere al porcentaje de aumento en los precios de bienes y servicios en un período de un año. Es decir, compara el índice de precios de un mes con el mismo mes del año anterior.
 
-- inflación esperada oficial
+- **inflacion_esperada_oficial:** Inflación esperada oficial.
 
-- diferencia entre inflación interanual oficial y esperada
+- **dif_inflacion_esperada_vs_interanual:** Diferencia entre inflación interanual oficial y esperada.
 
-- variación base monetaria interanual
+- **var_base_monetaria_interanual:** Variación base monetaria interanual.
 
-- variación USD interanual
+- **var_usd_interanual:** Variación USD interanual.
 
-- variación USD (Oficial) interanual
+- **var_usd_oficial_interanual:** Variación USD (Oficial) interanual.
 
-- variación merval interanual
+- **var_merval_interanual:** Variación merval interanual.
 
-- variación anual del dólar oficial (porcentaje de variación de la cotización del dólar oficial un año despues a la cotización de la fecha indicada)
+- **var_usd_anual:** Variación anual del dólar oficial (porcentaje de variación de la cotización del dólar oficial un año despues a la cotización de la fecha indicada).
 
-- variación anual del MERVAL (porcentaje de variación del MERVAL un año despues al la cotización de la fecha indicada)
+- **var_merval_interanual:** Variación anual del MERVAL (porcentaje de variación del MERVAL un año despues al la cotización de la fecha indicada)
 
-- MERVAL
+- **merval:** MERVAL
 
-- MERVAL dividido cotización del USD
-
-- DFF tasa de referencia de la reserva federal de EEUU
+- **merval_usd:** MERVAL dividido cotización del USD
