@@ -4,8 +4,9 @@ from bcra_api import BcraApi
 
 def main():
     
-    API_KEY = ''
     # get an api key from https://estadisticasbcra.com/api/registracion 
+    API_KEY = ''
+    
     api_bcra =  BcraApi(API_KEY)
     df = api_bcra.get_series('milestones')
 
@@ -36,7 +37,7 @@ if __name__ == "__main__":
     df_bcra['Date'] = df_bcra['Date'].astype(str)
     df_bcra['Date'] = pd.to_datetime(df_bcra['Date'], format='%Y/%m/%d')
 
-    # get an api key from 
+    # fredapi get an api key from https://fred.stlouisfed.org/docs/api/fred/#API
     fred = Fred(api_key='')
     metric = 'DFF'
     data = fred.get_series(metric)
