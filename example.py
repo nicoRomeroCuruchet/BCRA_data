@@ -4,7 +4,7 @@ from bcra_api import BcraApi
 
 def main():
     
-    API_KEY = 'eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTI5Mzg2MTAsInR5cGUiOiJleHRlcm5hbCIsInVzZXIiOiJlY3VydWNoZXRAZ21haWwuY29tIn0.ArL-eKEJ95DUotMUCcETV90PPBVIfOt396fZjE60hzqL6k-b6COpA3mDaWEY6v2RRqDELnakUTUVuk5bTF-prA'
+    API_KEY = ''
     # get an api key from https://estadisticasbcra.com/api/registracion 
     api_bcra =  BcraApi(API_KEY)
     df = api_bcra.get_series('milestones')
@@ -37,7 +37,7 @@ if __name__ == "__main__":
     df_bcra['Date'] = pd.to_datetime(df_bcra['Date'], format='%Y/%m/%d')
 
     # get an api key from 
-    fred = Fred(api_key='05017e0e0e07e617591abb49e656ea88')
+    fred = Fred(api_key='')
     metric = 'DFF'
     data = fred.get_series(metric)
     df_fed = pd.DataFrame(data)
