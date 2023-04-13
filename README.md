@@ -1,6 +1,6 @@
 # Datos BCRA
 
-Información relevante publicada por el banco central argentino. 
+API de Python para acceder a la informacion publicada por el banco central argentino. 
 
 - La informacion del BCRA se esta obteniendo desde el sitio https://estadisticasbcra.com/
 - La informacion de la reserva federal se esta obteniendo desde https://fred.stlouisfed.org/
