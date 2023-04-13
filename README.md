@@ -13,11 +13,11 @@ data_bcra.csv: contiene los datos generados por el codigo BCRA.ipynb
 Campos:
 
 
-- **milestones** eventos relevantes (presidencia, ministros de economía, presidentes del BCRA, cepo al dólar)
+- **milestones:** eventos relevantes (presidencia, ministros de economía, presidentes del BCRA, cepo al dólar)
 
-- base monetaria
+- **base:** base monetaria
 
-- base monetaria dividida USD
+- **base_usd:** base monetaria dividida USD
 
 - base monetaria dividida USD Oficial
 
