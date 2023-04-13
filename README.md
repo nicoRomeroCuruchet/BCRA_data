@@ -15,13 +15,18 @@ Campos:
 
 - **milestones:** eventos relevantes (presidencia, ministros de economía, presidentes del BCRA, cepo al dólar)
 
-- **base:** base monetaria
+- **base:**  La Base Monetaria está constituida por el dinero legal en circulación 
+            (billetes y monedas), más las reservas de bancos en el banco central. 
+            La base monetaria es controlada por el banco central y constituye su
+            principal vía para controlar la oferta monetaria. Otra vía para 
+            definir la base monetaria es que constituyen los pasivos monetarios 
+            del banco central. Valores expresada en millones de pesos.
 
 - **base_usd:** base monetaria dividida USD
 
-- base monetaria dividida USD Oficial
+- **base_usd_of:** base monetaria dividida USD Oficial
 
-- reservas internacionales
+- **reservas:** reservas internacionales
 
 - base monetaria dividida reservas internacionales
 
