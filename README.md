@@ -7,7 +7,7 @@ Información relevante publicada por el banco central argentino.
 
 # Setup
 
-1. ```git clone https://github.com/nicoRomeroCuruchet/BCRA_data.git
+1. ```git clone https://github.com/nicoRomeroCuruchet/BCRA_data.git```
 2. Generar el token correspondiente en: https://estadisticasbcra.com/api/registracion
 3. Generar el token correspondiente en: https://fred.stlouisfed.org/docs/api/fred/#API para poder usar ***fredapi*
 4. Ejecutar **pip install -r requirements.txt**
