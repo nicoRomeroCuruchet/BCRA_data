@@ -1,4 +1,4 @@
-# BCRA_data
+# BCRA
 
 Información relevante del banco central argentino. La informacion se esta obteniendo desde el sitio https://estadisticasbcra.com/
 
