@@ -79,9 +79,9 @@ Campos:
 
 - **uvi:** Valor de UVI.
 
-- **tasa_badlar:** Tasa BADLAR
+- **tasa_badlar:** La tasa BADLAR (Buenos Aires Deposits Linked to the Rate) es una tasa de referencia utilizada en el mercado financiero argentino para los depósitos a plazo fijo de más de un millón de pesos argentinos. Es calculada y publicada diariamente por el Banco Central de la República Argentina (BCRA) y representa el promedio de las tasas de interés que ofrecen los bancos privados para esos depósitos. La tasa BADLAR es una de las referencias más utilizadas en el mercado para determinar las tasas de interés en otros instrumentos financieros, como préstamos o bonos, y es considerada como un indicador de la salud del mercado financiero argentino.
 
-- **tasa_baibar:** Tasa BAIBAR
+- **tasa_baibar:** La tasa Baibar es un índice de referencia en pesos argentinos para préstamos bancarios a corto plazo entre bancos. El nombre "Baibar" proviene de la sigla "Buenos Aires Interbank Offered Rate". Esta tasa se calcula diariamente tomando como base las ofertas de préstamos que realizan entre sí los bancos que participan en el mercado. La tasa Baibar es utilizada como referencia para préstamos entre bancos y también como tasa de referencia para préstamos bancarios a empresas y particulares en pesos argentinos.
 
 - **tasa_tm20:** La tasa TM20 es una tasa de interés de referencia utilizada en el mercado financiero de México. Se calcula a partir de la tasa de los Bonos de Desarrollo del Gobierno Federal a 20 años y se utiliza como una medida de referencia para préstamos hipotecarios y otros tipos de crédito a largo plazo en México. La tasa TM20 es una de las tasas de interés más utilizadas en el mercado financiero mexicano y es publicada diariamente por el Banco de México.
 
