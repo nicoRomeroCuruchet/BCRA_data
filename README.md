@@ -109,6 +109,6 @@ Campos:
 
 - **var_merval_interanual:** Variación anual del MERVAL (porcentaje de variación del MERVAL un año despues al la cotización de la fecha indicada)
 
-- **merval:** MERVAL
+- **merval:** Indice MERVAL.
 
-- **merval_usd:** MERVAL dividido cotización del USD
+- **merval_usd:** MERVAL dividido cotización del USD.
