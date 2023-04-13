@@ -4,7 +4,7 @@ Información relevante publicada por el banco central argentino.
 La informacion se esta obteniendo desde el sitio https://estadisticasbcra.com/
 
 
-#Setup
+# Setup
 
 1. Generar los tokes correspondientes en: https://estadisticasbcra.com/api/registracion
 2. Generar el 
