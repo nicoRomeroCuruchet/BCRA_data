@@ -11,7 +11,7 @@ API de Python para acceder a la informacion publicada por el banco central argen
 2. Generar el token correspondiente en: https://estadisticasbcra.com/api/registracion
 3. Generar el token correspondiente en: https://fred.stlouisfed.org/docs/api/api_key.html para poder usar [fredapi](https://github.com/mortada/fredapi).
 4. Ejecutar ```pip install -r requirements.txt```
-5. Con ambos tokens modificar, segun corresponda el archivo ```example.py```. Lineas 8 y 41.
+5. Con ambos tokens modificar, segun corresponda, el archivo ```example.py```. Lineas 8 y 41.
 6. Ejecutar el comando ```python example.py``` va a generar el archivo **data_bcra.csv** con informacion historica de los siguiente campos.
 
 # Campos:
