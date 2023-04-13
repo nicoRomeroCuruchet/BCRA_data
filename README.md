@@ -73,11 +73,11 @@ Campos:
 
 - **m2_privado_variacion_mensual:** M2 privado variación mensual. M2 es una medida de la oferta monetaria que incluye el dinero en circulación (billetes y monedas) y los depósitos a plazo, depósitos en cuentas de ahorro, y otros tipos de depósitos que están disponibles para su retiro en un corto plazo de tiempo.
 
-- **cer:** Tasa CER.
+- **cer:** Coeficiente de Estabilización de Referencia, un índice de ajuste por inflación utilizado en Argentina para corregir el valor nominal de distintos instrumentos financieros y contratos en pesos.
 
-- **uva:** Valor de UVA.
+- **uva:** Unidad de Valor Adquisitivo. Se trata de una unidad de medida utilizada en Argentina para ajustar el valor de los créditos hipotecarios en función de la inflación. El valor de la UVA se actualiza diariamente de acuerdo con el índice de precios al consumidor (IPC) publicado por el INDEC
 
-- **uvi:** Valor de UVI.
+- **uvi:** Unidades de Vivienda. Unidades de cuenta para invertir, ahorrar o tomar préstamos. Son unidades de cuenta porque están relacionadas con el precio de otros bienes y servicios: 1000 UVIs valen lo mismo que 1 metro cuadrado construido. Por eso, si tomás un préstamo en UVIs, el monto total y de cada cuota estará expresado en UVIs. Para saber cuánto tenés que pagar debés calcular cuántos pesos vale una UVIs
 
 - **tasa_badlar:** La tasa BADLAR (Buenos Aires Deposits Linked to the Rate) es una tasa de referencia utilizada en el mercado financiero argentino para los depósitos a plazo fijo de más de un millón de pesos argentinos. Es calculada y publicada diariamente por el Banco Central de la República Argentina (BCRA) y representa el promedio de las tasas de interés que ofrecen los bancos privados para esos depósitos. La tasa BADLAR es una de las referencias más utilizadas en el mercado para determinar las tasas de interés en otros instrumentos financieros, como préstamos o bonos, y es considerada como un indicador de la salud del mercado financiero argentino.
 
