@@ -7,11 +7,12 @@ Información relevante publicada por el banco central argentino.
 
 # Setup
 
-1. Generar el token correspondiente en: https://estadisticasbcra.com/api/registracion
-2. Generar el token correspondiente en: https://fred.stlouisfed.org/docs/api/fred/#API para poder usar ***fredapi*
-3. Ejecutar **pip install -r requirements.txt**
-4. Con ambos tokens modificar, segun corresponda el archivo **example.py**. Lineas 8 y 41.
-5. Ejecutar el comando **python example.py** va a generar el archivo **data_bcra.csv** con informacion historica de los siguiente campos.
+1. git clone https://github.com/nicoRomeroCuruchet/BCRA_data.git
+2. Generar el token correspondiente en: https://estadisticasbcra.com/api/registracion
+3. Generar el token correspondiente en: https://fred.stlouisfed.org/docs/api/fred/#API para poder usar ***fredapi*
+4. Ejecutar **pip install -r requirements.txt**
+5. Con ambos tokens modificar, segun corresponda el archivo **example.py**. Lineas 8 y 41.
+6. Ejecutar el comando **python example.py** va a generar el archivo **data_bcra.csv** con informacion historica de los siguiente campos.
 
 # Campos:
 
