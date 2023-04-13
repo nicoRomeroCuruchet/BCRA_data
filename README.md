@@ -17,13 +17,13 @@ Campos:
 
 - **base:**  La base monetaria está constituida por el dinero legal en circulación (billetes y monedas), más las reservas de bancos en el banco central. La base monetaria es controlada por el banco central y constituye su principal vía para controlar la oferta monetaria. Otra vía par  definir la base monetaria es que constituyen los pasivos monetarios del banco central. Valores expresada en millones de pesos.
 
-- **base_usd:** base monetaria dividida USD
+- **base_usd:** Base monetaria dividida USD, se obtiene dividiendo el valor diario de la base monetaria por la cotización del dólar ese mismo día. Esto nos permite investigar la evolución del valor en poder adquisitivo en dólares de la base monetaria. Valores expresados en Millones de Dolares
 
-- **base_usd_of:** base monetaria dividida USD Oficial
+- **base_usd_of:** Base monetaria dividida USD Oficial. Valores expresados en Millones de Dolares
 
-- **reservas:** reservas internacionales
+- **reservas:** Disponibilidad de reservas internacionales. Valores expresados en Millones de Dolares
 
-- base monetaria dividida reservas internacionales
+- **base_div_res** base monetaria dividida reservas internacionales
 
 - cotización del USD
 
