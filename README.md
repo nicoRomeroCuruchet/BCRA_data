@@ -77,7 +77,7 @@ Campos:
 
 - **uva:** Unidad de Valor Adquisitivo. Se trata de una unidad de medida utilizada en Argentina para ajustar el valor de los créditos hipotecarios en función de la inflación. El valor de la UVA se actualiza diariamente de acuerdo con el índice de precios al consumidor (IPC) publicado por el INDEC
 
-- **uvi:** Unidades de Vivienda. Unidades de cuenta para invertir, ahorrar o tomar préstamos. Son unidades de cuenta porque están relacionadas con el precio de otros bienes y servicios: 1000 UVIs valen lo mismo que 1 metro cuadrado construido. Por eso, si tomás un préstamo en UVIs, el monto total y de cada cuota estará expresado en UVIs. Para saber cuánto tenés que pagar debés calcular cuántos pesos vale una UVIs
+- **uvi:** Unidades de Valor Vivienda. Unidades de cuenta para invertir, ahorrar o tomar préstamos. Son unidades de cuenta porque están relacionadas con el precio de otros bienes y servicios: 1000 UVIs valen lo mismo que 1 metro cuadrado construido. 
 
 - **tasa_badlar:** La tasa BADLAR (Buenos Aires Deposits Linked to the Rate) es una tasa de referencia utilizada en el mercado financiero argentino para los depósitos a plazo fijo de más de un millón de pesos argentinos. Es calculada y publicada diariamente por el Banco Central de la República Argentina (BCRA) y representa el promedio de las tasas de interés que ofrecen los bancos privados para esos depósitos. La tasa BADLAR es una de las referencias más utilizadas en el mercado para determinar las tasas de interés en otros instrumentos financieros, como préstamos o bonos, y es considerada como un indicador de la salud del mercado financiero argentino.
 
